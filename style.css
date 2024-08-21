@@ -1,0 +1,83 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.container-data {
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.agus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.btn:hover {
+    box-shadow: 0 3px 5px 0 blue;
+}
+
+
+table {
+    background-color: azure;
+}
+p {
+    display: flex;
+    justify-content: center;
+   color: rgb(8, 21, 33);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+h1 span {
+    color: white;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.anj {
+    font-style: italic;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: cornsilk;
+}
+
+
+.btn {
+    background-color:black;
+    padding: 10px;
+    border-radius: 10%;
+    color: white;
+
+
+}
+
+.aboutus {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: transparent;
+    font-style: italic;
+}
